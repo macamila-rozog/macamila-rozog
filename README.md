@@ -3,7 +3,7 @@
 
 **Location:** Bogotá, Colombia  
 **Email:** mcamilarozogarcia@gmail.com  
-**Curriculum Vitae:** [Download my CV (PDF)](assets/cv/MaCamila_Rozo_CV_EN.pdf)
+**Curriculum Vitae:** [Download my CV (PDF)](https://github.com/macamila-rozog/assets/blob/d08b3cbe75edf7d5c03112aa17171b9c2da4ddf6/MaCamila_Rozo_CV_EN.pdf)
 
 ---
 
