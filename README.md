@@ -43,7 +43,7 @@ Excel (Advanced) | Git & GitHub | Jupyter Notebooks | VS Code | Notion
 
 ## Projects
 
-### Retail Sales KPI Analysis and Reporting  
+### [Retail Sales KPI Analysis and Reporting](https://github.com/macamila-rozog/retail-sales-kpi-analysis) 
 End-to-end KPI analysis of a retail dataset, including data cleaning, exploratory analysis, SQL-based aggregation, and reporting.
 
 **Tech Stack:** Python (Pandas), SQL, Excel, Jupyter  
